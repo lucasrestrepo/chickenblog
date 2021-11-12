@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Volumes/CAPITAN/lrg/.dotnet/store/|arch|/|tfm|",
+      "/Volumes/CAPITAN/lrg/.nuget/packages"
+    ]
+  }
+}
